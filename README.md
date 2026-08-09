@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
