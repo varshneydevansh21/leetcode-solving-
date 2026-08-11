@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -29,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
