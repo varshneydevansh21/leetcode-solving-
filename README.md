@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
+| [2169-count-operations-to-obtain-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2169-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
