@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
