@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
