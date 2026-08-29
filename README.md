@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0069-sqrtx) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0509-fibonacci-number) |
