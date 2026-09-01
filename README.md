@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0476-number-complement) |
+| [0779-k-th-symbol-in-grammar](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
