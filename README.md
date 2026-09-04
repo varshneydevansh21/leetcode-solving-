@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
