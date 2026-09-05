@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2169-count-operations-to-obtain-zero) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
