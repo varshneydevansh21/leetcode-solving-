@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0258-add-digits) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
