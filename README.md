@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
+| [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
