@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
@@ -66,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0779-k-th-symbol-in-grammar) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
 ## Two Pointers
 |  |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
