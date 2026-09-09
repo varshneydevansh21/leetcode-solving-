@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0338-counting-bits) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
