@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 ## Design
 |  |
