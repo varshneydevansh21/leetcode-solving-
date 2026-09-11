@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Design
 |  |
 | ------- |
