@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
