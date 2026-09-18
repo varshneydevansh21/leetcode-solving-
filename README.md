@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0485-max-consecutive-ones) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
 ## Two Pointers
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
@@ -226,8 +229,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
