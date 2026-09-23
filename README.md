@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
