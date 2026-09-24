@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2169-count-operations-to-obtain-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
