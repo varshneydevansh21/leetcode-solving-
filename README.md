@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
