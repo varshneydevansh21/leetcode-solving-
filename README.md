@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0707-design-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
+| [0707-design-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
