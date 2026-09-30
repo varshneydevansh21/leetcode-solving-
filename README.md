@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Floyd's Cycle Finding Algorithm
