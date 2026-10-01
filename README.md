@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0707-design-linked-list) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0217-contains-duplicate) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0202-happy-number) |
 ## Number Theory
 |  |
