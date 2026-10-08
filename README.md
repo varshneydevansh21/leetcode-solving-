@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
 | ------- |
