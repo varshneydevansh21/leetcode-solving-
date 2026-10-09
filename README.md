@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -308,8 +311,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0078-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
