@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
@@ -140,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0118-pascals-triangle) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0078-subsets) |
 ## Binary Indexed Tree
 |  |
