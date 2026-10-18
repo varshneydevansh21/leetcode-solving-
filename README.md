@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0073-set-matrix-zeroes) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
