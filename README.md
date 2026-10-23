@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
