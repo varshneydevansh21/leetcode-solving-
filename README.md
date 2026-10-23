@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -391,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
