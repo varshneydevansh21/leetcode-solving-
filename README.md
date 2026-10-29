@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
+| [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
 ## Simulation
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
