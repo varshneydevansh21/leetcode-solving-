@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
