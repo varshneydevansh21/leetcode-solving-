@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0535-encode-and-decode-tinyurl) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -558,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
