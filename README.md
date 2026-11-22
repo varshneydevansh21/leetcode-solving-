@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
