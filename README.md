@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/varshneydevansh21/leetcode-solving-s/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
